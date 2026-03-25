@@ -51,8 +51,8 @@ Saves output to a .txt file
 
 Step 1: Clone the Repository
 
-git clone https://github.com/Charanreddy0007/oss-audit-24BCY10254.git
-cd oss-audit-24BCY10254
+git clone https://github.com/mohdadnansami/oss-audit-24BCY10292.git
+cd oss-audit-24BCY10292
 Step 2: Give Permission
 
 chmod +x *.sh
